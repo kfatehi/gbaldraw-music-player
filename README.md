@@ -7,8 +7,10 @@ features:
 
 example of a compatible tracklist format:
 
+```
 00:00:00,First
 00:03:00,Second
+```
 
 ## caveats
 
